@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-shopping/static/css/main.f3643549.css",
+    "main.js": "/react-shopping/static/js/main.75fb81c9.js",
+    "static/media/2.png": "/react-shopping/static/media/2.c119e3f3aefabebbd26c.png",
+    "static/media/1.png": "/react-shopping/static/media/1.6e9ae2e03c37845b192b.png",
+    "static/media/3.png": "/react-shopping/static/media/3.083b2fb4cfbee075f002.png",
+    "static/media/6.webp": "/react-shopping/static/media/6.391d3453677c007e9815.webp",
+    "static/media/4.webp": "/react-shopping/static/media/4.b6e8a04937e4e50c0ae0.webp",
+    "static/media/8.webp": "/react-shopping/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.webp": "/react-shopping/static/media/5.72b4820dd7720a8867af.webp",
+    "static/media/7.webp": "/react-shopping/static/media/7.ed4c996c9892a289e4ee.webp",
+    "index.html": "/react-shopping/index.html",
+    "main.f3643549.css.map": "/react-shopping/static/css/main.f3643549.css.map",
+    "main.75fb81c9.js.map": "/react-shopping/static/js/main.75fb81c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3643549.css",
+    "static/js/main.75fb81c9.js"
+  ]
+}
